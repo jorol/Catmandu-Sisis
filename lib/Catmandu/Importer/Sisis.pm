@@ -1,7 +1,6 @@
 package Catmandu::Importer::Sisis;
 
-#ABSTRACT: Package that imports MAB2 data
-#VERSION
+our $VERSION = '0.01';
 
 use Catmandu::Sane;
 use Moo;

@@ -1,38 +1,26 @@
-Catmandu::Sisis - Catmandu modules for working with Sisis data.
+# NAME
 
-# Installation
+Catmandu::Sisis - Blah blah blah
 
-Install the latest distribution from CPAN:
+# SYNOPSIS
 
-    cpanm Catmandu::Sisis
+    use Catmandu::Sisis;
 
-Install the latest developer version from GitHub:
+# DESCRIPTION
 
-    cpanm git://github.com/jorol/Catmandu-Sisis.git@devel
+Catmandu::Sisis is
 
-# Contribution
+# AUTHOR
 
-For bug reports and feature requests use <https://github.com/jorol/Catmandu-Sisis/issues>.
+Johann Rolschewski <jorol@cpan.org>
 
-For contributions to the source code create a fork or use the `devel` branch. The master
-branch should only contain merged and stashed changes to appear in Changelog.
+# COPYRIGHT
 
-Dist::Zilla and build requirements can be installed this way:
+Copyright 2020- Johann Rolschewski
 
-    cpan Dist::Zilla
-    dzil authordeps | cpanm
+# LICENSE
 
-Build and test your current state this way:
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
 
-    dzil build
-    dzil test 
-    dzil smoke --release --author # test more
-
-# Status
-
-Build and test coverage of the `devel` branch at <https://github.com/jorol/Catmandu-Sisis/>:
-
-[![Build Status](https://travis-ci.org/jorol/Catmandu-Sisis.png)](https://travis-ci.org/jorol/Catmandu-Sisis)
-[![Coverage Status](https://coveralls.io/repos/jorol/Catmandu-Sisis/badge.png?branch=devel)](https://coveralls.io/r/jorol/Catmandu-Sisis?branch=devel)
-[![Kwalitee Score](http://cpants.cpanauthors.org/dist/Catmandu-Sisis.png)](http://cpants.cpanauthors.org/dist/Catmandu-Sisis)
-[![CPAN version](https://badge.fury.io/pl/Catmandu-Sisis.png)](http://badge.fury.io/pl/Catmandu-Sisis)
+# SEE ALSO

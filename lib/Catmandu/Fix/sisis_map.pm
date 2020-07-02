@@ -1,7 +1,6 @@
 package Catmandu::Fix::sisis_map;
 
-#ABSTRACT: copy SISIS values of one field to a new field
-#VERSION
+our $VERSION = '0.01';
 
 use Catmandu::Sane;
 use Catmandu::Util qw(:is :data);

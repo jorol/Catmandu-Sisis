@@ -1,10 +1,10 @@
 package Sisis::Parser;
 
-#ABSTRACT: MAB2 Sisis format parser
-#VERSION
-
 use strict;
 use warnings;
+
+our $VERSION = '0.01';
+
 use charnames qw< :full >;
 use Carp qw(croak);
 use Readonly;

@@ -1,10 +1,9 @@
 package Catmandu::Sisis;
 
-#ABSTRACT: Catmandu modules for working with Sisis data.
-#VERSION
-
 use strict;
 use warnings;
+
+our $VERSION = '0.01';
 
 =head1 DESCRIPTION
  
@@ -31,6 +30,21 @@ Parser and writer for Sisis data.
 =item * L<Sisis::Parser>
 
 =back
+
+=head1 AUTHOR
+
+Johann Rolschewski E<lt>jorol@cpan.orgE<gt>
+
+=head1 COPYRIGHT
+
+Copyright 2020- Johann Rolschewski
+
+=head1 LICENSE
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+=head1 SEE ALSO
 
 =cut
 
