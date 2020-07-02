@@ -3,6 +3,7 @@ package Catmandu::Sisis;
 use strict;
 use warnings;
 
+# ABSTRACT: Catmandu modules for SISIS data
 our $VERSION = '0.01';
 
 =head1 DESCRIPTION
